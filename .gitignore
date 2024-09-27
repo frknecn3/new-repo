@@ -5,6 +5,3 @@ secret.txt
 
 # Klasör seçimi
 secrets/
-
-# Dosya türü seçimi
-*.jpg
